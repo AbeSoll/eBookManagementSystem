@@ -1,6 +1,5 @@
-===================================================================
+
 PROJECT NAME: E-BOOK MANAGEMENT SYSTEM (ORDERING E-BOOK)
-===================================================================
 
 IDE - NETBEANS 8.2 version
 SERVER - GlassFish 4.1.1 version
