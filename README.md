@@ -9,9 +9,9 @@ DATABSE - Java DB Derby (need to create database manually)
 -There are 2 interfaces which is Admin and user
 -Some buttons are clickable only for hyperlink to another page html
 
-============================================================
+====
 GROUP NAME : BOOKWORM
-============================================================
+====
 
 GROUP MEMBERS:
 1. AHMAD SOLEHIN BIN ASMADI (2023479352)
@@ -19,9 +19,9 @@ GROUP MEMBERS:
 3. NURSHAZWANI ELLYZA BINTI MOHD NOR (2023867482)
 4. MUHAMMAD HAFIZUDDIN BIN RAEMEE (2023874148)
 
-============================================================
+====
 USER INTERFACES
-============================================================
+====
 1. index
 2. profile
 3. changePassword
@@ -57,9 +57,9 @@ ADMIN INTERFACES
 7. adminPanel
 
 
-===================================================================
+====
 CREATE DATABASE (Java DB Derby Format)
-===================================================================
+====
 
 CREATE TABLE "admin" (
     "userName" varchar(25) NOT NULL,
