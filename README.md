@@ -6,6 +6,55 @@ SERVER - GlassFish 4.1.1 version
 LANGUAGE - JAVA, JAVASCRIPT, CSS
 DATABSE - Java DB Derby (need to create database manually)
 
+-There are 2 interfaces which is Admin and user
+-Some buttons are clickable only for hyperlink to another page html
+
+============================================================
+GROUP NAME : BOOKWORM
+============================================================
+
+GROUP MEMBERS:
+1. AHMAD SOLEHIN BIN ASMADI (2023479352)
+2. NURALYSHA MARDHIAH BINTI MUHAMAD FATHULMUNIR (2023601294)
+3. NURSHAZWANI ELLYZA BINTI MOHD NOR (2023867482)
+4. MUHAMMAD HAFIZUDDIN BIN RAEMEE (2023874148)
+
+============================================================
+USER INTERFACES
+============================================================
+1. index
+2. profile
+3. changePassword
+4. confirmOrder
+5. contact
+6. myCart
+7. oldBook
+8. newBook
+9. orderList
+10. orderView
+11. shippingAddress
+12. viewBook
+
+This page will take part if you click login button 
+
+13. contact_2
+14. index_2
+15. newBook_2
+16. oldBook_2
+17. shippingAddress_2
+18. viewBook_2
+
+
+============================================================
+ADMIN INTERFACES
+============================================================
+1. adminAddBook
+2. adminAllBook
+3. adminEditBook
+4. adminLogin
+5. adminOrderBook
+6. adminOrderView
+7. adminPanel
 
 
 ===================================================================
